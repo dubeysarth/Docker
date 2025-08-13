@@ -1,0 +1,27 @@
+name: main_latest
+channels:
+  - conda-forge
+dependencies:
+  - python>=3.10,<3.13
+  - xesmf
+  - richdem
+  - gdal
+  - geopandas
+  - xarray
+  - zarr
+  - cfgrib
+  - joblib
+  - tqdm
+  - jupyter
+  - matplotlib
+  - seaborn
+  - networkx
+  - dask
+  - numba
+  - rasterio
+  - rioxarray
+  - netcdf4
+  - cartopy
+  - fiona
+  - ipyleaflet
+  - pip
